@@ -1,1 +1,1 @@
-This script applies NLP methods to classify messages into spam vs not-spam 
+Notebooks that apply NLP embeddings to classify text
